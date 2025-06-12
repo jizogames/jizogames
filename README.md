@@ -7,8 +7,8 @@ Welcome to my Github profile. Here are some of my projects and interests.
 - **Languages**: Go言語
 <!--
 - **Frameworks**: 
-- **Tools**: VS Code
 -->
+- **Tools**: Git, VS Code
 
 <!--
 ## Projects
